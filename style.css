@@ -1,0 +1,58 @@
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+
+    #container{
+        margin: 0 auto;
+        width: 1200px;
+    }
+
+    header {
+        width: 100%;
+        height: 100px;
+        background-color: blue;
+    }
+    #logo {
+        width: 250px;
+        height: 100px;
+        float: left;
+        background-color: rgb(24, 104, 44);
+    }
+    nav {
+        width: 900px;
+        height: 100px;
+        float: right;
+        background-color: brown;
+    }
+
+    #contents{
+        width: 100%;
+        height: 300px;
+        
+    }
+    #slideshow {
+        clear: both;
+        width: 100%;
+        height: 300px;
+        background-color: orange;
+    }
+    #tabmenu {
+        width: 800px;
+        height: 300px;
+        background-color: darksalmon;
+        float: left;
+    }
+    #Links{
+        width: 400px;
+        height: 300px;
+        background-color: rgb(94, 181, 216);
+        float: right;
+    }
+    footer{
+        clear: both;
+        width: 100%;
+        height: 100px;
+        background-color: darkgray;
+    }
